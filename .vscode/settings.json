@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "MiniBlockDash/src"
+    ],
+    "java.project.outputPath": "MiniBlockDash/out",
+    "java.project.referencedLibraries": []
+}
